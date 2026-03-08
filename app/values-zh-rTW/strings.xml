@@ -267,7 +267,7 @@
     <string name="unknown_asset">未知附件</string>
     <string name="download_asset">下載</string>
     <string name="nav_back">返回</string>
-    <strinh name="menu">選單</string>
+    <string name="menu">選單</string>
     <string name="menu_filter">篩選</string>
 
     <!-- Logs Page -->
